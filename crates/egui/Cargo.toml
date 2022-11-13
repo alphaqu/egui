@@ -59,6 +59,7 @@ epaint = { version = "0.19.0", path = "../epaint", default-features = false }
 
 ahash = "0.8"
 nohash-hasher = "0.2"
+rust-hsluv = "0.1.4"
 
 #! ### Optional dependencies
 ## Enable this when generating docs.
